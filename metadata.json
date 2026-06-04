@@ -1,0 +1,6 @@
+{
+  "name": "Godot 2D Game Content Builder",
+  "description": "An interactive 2D character builder, database manager, and tilemap world builder for exporting game-ready assets to Godot Engine 4.x.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
