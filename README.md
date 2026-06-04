@@ -1,20 +1,74 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Godot 2D Game Content Builder
 
-# Run and deploy your AI Studio app
+Professional toolkit for Godot 4.x developers designed to accelerate game development through visual content creation and export-ready workflows.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/832a5294-91bc-48d5-b834-d870c5cdd99a
+### Character Builder
 
-## Run Locally
+* Create modular 2D characters
+* Animation-ready character system
+* Directional sprite setup
+* Character stats and metadata
 
-**Prerequisites:**  Node.js
+### Monster Builder
 
+* Build procedural monsters and creatures
+* Configure behaviors and combat stats
+* Export game-ready data
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Item Builder
+
+* Create weapons, armor, consumables, and resources
+* Configure item rarity and attributes
+
+### XML / Data Editor
+
+* Visual editor for game databases
+* Character, monster, item, biome, and map management
+* XML and JSON export support
+
+### World Builder
+
+* Procedural biome generation
+* Resource placement system
+* Spawn point generation
+* Tilemap-ready export pipeline
+
+### Export Center
+
+* Godot 4.x compatible export structure
+* XML export
+* JSON export
+* Sample GDScript generation
+
+## Technology Stack
+
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+
+## Roadmap
+
+* Character Animation Timeline
+* Procedural Sprite Generator
+* Team Collaboration
+* Cloud Save Projects
+* Godot Plugin Export
+
+## Target Users
+
+* Godot Developers
+* Indie Game Developers
+* RPG Creators
+* Survival Game Developers
+* Procedural Content Creators
+
+## Live Demo
+
+Coming Soon
+
+## License
+
+Commercial and personal use subject to project licensing terms.
